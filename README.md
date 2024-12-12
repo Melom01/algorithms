@@ -37,10 +37,10 @@ Example structure:
 algorithms/
   kotlin/
     search/
-      binarySearch.kt
-      linearSearch.kt
+      BinarySearch.kt
+      LinearSearch.kt
     sorting/
-      mergeSort.kt
+      MergeSort.kt
   dart/
     (future additions)
   go/
