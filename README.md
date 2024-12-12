@@ -1,4 +1,4 @@
-# Algorithms Collection in Kotlin (and More to Come!)
+# Algorithms
 
 Welcome to the **Algorithms Collection** repository! This is a growing library of algorithm implementations written in **Kotlin**, with plans to expand to other programming languages in the future, including:
 
